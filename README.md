@@ -1,5 +1,4 @@
 # SafePoint.club-leak
 
 
-
-Leak lol
+Another leak. 
